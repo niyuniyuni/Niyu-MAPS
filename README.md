@@ -52,6 +52,7 @@
     <p>Niyu MAP adalah webGIS yang menyediakan peta penggunaan lahan Kecamatan Tandes dan Lakarsantri, Kota Surabaya.</p>
     <p>Peta ini merupakan peta hasil kerja kelompok kami, kelompok 4 2022 A dengan pengerjaan melalui tetes darah, keringat, dan air mata. -_-</p>
 </section>
+</body>
 
 <section id="contact">
     <h2>Mau Tanya-tanya lebih lanjut?</h2>
