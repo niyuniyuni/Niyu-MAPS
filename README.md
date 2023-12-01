@@ -60,7 +60,6 @@
     <h2><marquee>SEMOGA SEMUA ANAK PEND. GEOGRAFI ANGKATAN 2022 MENDAPAT NILAI A DI SEMESTER 3 INI, AMIIIIN. ^-^</marquee></h2>
     <h2>T_T</h2>
 </section>
-</body>
 
 <footer>
     <p>&copy; 2023 Niyu MAP. Powered by Google Maps.</p>
