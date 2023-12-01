@@ -83,7 +83,7 @@
         margin: 0;
         padding: 0;
         width: 100%;
-        height: 100vh;
+        height: 100%;
         background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://coolwallpapers.me/picsup/2638513-pirates-4k-free-wallpaper-in-hd.jpg);
         background-size: cover;
         background-position: center;
@@ -126,7 +126,7 @@ nav a {
 }
 
 section {
-    padding: 20px;
+    padding: 0%;
 }
 
 .maps {
@@ -149,9 +149,9 @@ footer {
     color: rgb(245, 166, 77);
     text-align: center;
     padding: 0;
-    position: fixed;
+    position: center;
     bottom: 0;
     width: 100%;
-    height: 5%;
+    height: 10%;
 }
 </style>
