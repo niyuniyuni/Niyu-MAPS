@@ -30,7 +30,7 @@
 <section id="maps">
     <h2>MAPS</h2>
     <div class="maps">
-    <iframe src="https://www.google.com/maps/d/embed?mid=1-Hi0pGilPqzjb0JSQ0s_odExGBOOy_Q&ehbc=2E312F" width="900" height="550"></iframe>
+    <iframe src="https://www.google.com/maps/d/embed?mid=1-Hi0pGilPqzjb0JSQ0s_odExGBOOy_Q&ehbc=2E312F" width="880" height="550"></iframe>
 </div>
 
 <script>
