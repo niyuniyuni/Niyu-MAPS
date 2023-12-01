@@ -61,7 +61,6 @@
     <h2>T_T</h2>
 </section>
 
-</body>
 <footer>
     <p>&copy; 2023 Niyu MAP. Powered by Google Maps.</p>
 </footer>
